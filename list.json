@@ -1,0 +1,10 @@
+{
+	"things": [
+		{
+			"name":"doublegasm",
+			"descripton":"Picker must make Other finish twice",
+			"limit":"1 day",
+			"count":0
+		}
+	]
+}
